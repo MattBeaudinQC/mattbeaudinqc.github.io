@@ -19,9 +19,9 @@ In my coursework, here are a couple of more items I've worked on:
 
 These days, I'm most interested in security, development and AI. Here are some articles I found relevant for the current situation
 
-- https://python.plainenglish.io/why-python-is-the-perfect-language-for-entering-the-ai-era-99318d0074d2
-- https://www.theregister.com/2025/09/24/pypi_phishing_attacks/
-- https://www.theregister.com/2025/12/16/mi6_chief_well_be_as/
+- [Why python is the perfect langauge for the AI era](https://python.plainenglish.io/why-python-is-the-perfect-language-for-entering-the-ai-era-99318d0074d2)
+- [Phishing attacks through PyPi](https://www.theregister.com/2025/09/24/pypi_phishing_attacks/)
+- [MI6 says that python is just as useful as learning russian](https://www.theregister.com/2025/12/16/mi6_chief_well_be_as/)
 
 ### Contact me
 You can reach out to me via LinkedIn, it's probably the simplest method :)
