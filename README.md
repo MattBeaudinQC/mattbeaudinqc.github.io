@@ -1,9 +1,3 @@
-## TODO 
-- CSS/Theme
-- commit repos
-- articles
-- prettify this. 
-
 ### About Me
 Seasoned IT professional with 18 years of experience across multiple sectors, including Government, Consumer Electronics and the Security Software industry. I work in software teams providing log analysis and resolution for customer escalations. Strong familiarity with principles and best practices of Privileged Access Management and Identity Access Management. 
 
@@ -26,4 +20,9 @@ TODO put interesting repos here
 ### Articles
 TODO put interesting articles here
 
-### 
+
+## TODO 
+- CSS/Theme
+- commit repos
+- articles
+- prettify this. 
