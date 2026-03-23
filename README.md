@@ -23,5 +23,10 @@ These days, I'm most interested in security, development and AI. Here are some a
 - [Phishing attacks through PyPi](https://www.theregister.com/2025/09/24/pypi_phishing_attacks/)
 - [MI6 says that python is just as useful as learning russian](https://www.theregister.com/2025/12/16/mi6_chief_well_be_as/)
 
+
+### Music 
+
+I'm also deeply interested in music production on Linux, particularly with [Ardour](https://ardour.org/). I've got a [soundcloud](https://soundcloud.com/matt-beaudin-894593935) too.
+
 ### Contact me
 You can reach out to me via LinkedIn, it's probably the simplest method :)
