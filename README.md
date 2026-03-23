@@ -1,6 +1,8 @@
 ### About Me
 Seasoned IT professional with 18 years of experience across multiple sectors, including Government, Consumer Electronics and the Security Software industry. For the past 6 years, I've been working in software teams providing log analysis and resolution for customer escalations. Strong familiarity with principles and best practices of Privileged Access Management, Identity Access Management and security policies. Based in Québec, Canada.
 
+![Profile Photo](assets/profile.jpeg)
+
 ### Experience and Education
 You can find more on my linkedin page: https://www.linkedin.com/in/mattbeaudin/
 
