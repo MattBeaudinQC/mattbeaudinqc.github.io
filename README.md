@@ -21,7 +21,4 @@ These days, I'm most interested in security, development and AI. Here are some a
 
 ### Music 
 
-I'm also deeply interested in music production on Linux, particularly with [Ardour](https://ardour.org/). I've got a [soundcloud](https://soundcloud.com/matt-beaudin-894593935) too.
-
-### Contact me
-You can reach out to me via LinkedIn, it's probably the simplest method :)
+I'm also deeply interested in music production on Linux, particularly with [Ardour](https://ardour.org/). I've got a [soundcloud](https://soundcloud.com/matt-beaudin-894593935) too. I also spent quite some time using [JackTrip](https://ccrma.stanford.edu/software/jacktrip/). 
