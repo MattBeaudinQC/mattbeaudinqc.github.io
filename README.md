@@ -3,6 +3,8 @@
 For Safeguard, I've written a couple of log analysis tools in powershell which are pretty neat. You can check out the [autogrepper](https://github.com/MattBeaudinQC/autogrepper) and the [auditLogSearch](https://github.com/MattBeaudinQC/AuditLogSearch) repos for more information. If you're not familiar with Safeguard, you can read about it [here](https://www.oneidentity.com/one-identity-safeguard/). I'm also pretty active on the [open source projects](https://github.com/OneIdentity) that One Identity maintains for it's customers
 
 In Python, I developed a proof of concept pong game using the pygame modules. You can find more about that [here](https://github.com/MattBeaudinQC/Pong).
+Screenshot:
+<img width="2002" height="1588" alt="image" src="https://github.com/user-attachments/assets/60aa3d4a-e492-41d5-b580-283483faa8a4" />
 
 In my coursework, here are a couple of more items I've worked on:
 - [Project using Turtle to draw shapes](https://github.com/MattBeaudinQC/MidtermProject)
