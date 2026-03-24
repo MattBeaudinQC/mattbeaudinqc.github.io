@@ -1,10 +1,3 @@
-
-### About Me
-Seasoned IT professional with 18 years of experience across multiple sectors, including Government, Consumer Electronics and the Security Software industry. For the past 6 years, I've been working in software teams providing log analysis and resolution for customer escalations. Strong familiarity with principles and best practices of Privileged Access Management, Identity Access Management and security policies. Based in Québec, Canada.
-
-### Experience and Education
-You can find more on my [linkedin page](https://www.linkedin.com/in/mattbeaudin/)
-
 ### Projects
 
 For Safeguard, I've written a couple of log analysis tools in powershell which are pretty neat. You can check out the [autogrepper](https://github.com/MattBeaudinQC/autogrepper) and the [auditLogSearch](https://github.com/MattBeaudinQC/AuditLogSearch) repos for more information. If you're not familiar with Safeguard, you can read about it [here](https://www.oneidentity.com/one-identity-safeguard/). I'm also pretty active on the [open source projects](https://github.com/OneIdentity) that One Identity maintains for it's customers
